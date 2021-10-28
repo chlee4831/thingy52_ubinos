@@ -16,3 +16,6 @@
 [submodule "library/Nordic-Thingy52-FW"]
 	path = library/Nordic-Thingy52-FW
 	url = https://github.com/chlee4831/Nordic-Thingy52-FW.git
+[submodule "library/thingy52_wrapper"]
+	path = library/thingy52_wrapper
+	url = https://github.com/chlee4831/thingy52_wrapper.git

@@ -35,6 +35,8 @@ set(PROJECT_APP_SOURCES ${PROJECT_APP_SOURCES} ${_tmp_sources})
 
 include_directories(${_tmp_source_dir})
 include_directories(${_tmp_source_dir}/config)
+include_directories(${_tmp_source_dir}/include/board)
+include_directories(${_tmp_source_dir}/include/modules)
 
 include_directories(${PROJECT_LIBRARY_DIR}/nrf5sdk_v17.00.00_lite/components/toolchain/cmsis/dsp/Include)
 
